@@ -21,7 +21,7 @@ h1.page-title {
     text-align: center;
     color: #2c3e50; #29b6f6
 }
-.col.grid-example { # 중간에 버튼 css
+.col.grid-example { /* 중간에 버튼 */ 
     border: 1px solid #eee;
     margin: 7px 0;
     text-align: center;
@@ -37,7 +37,7 @@ h1.page-title {
 .last-post {
     padding: 10px 0 15px;
 }
-.last-post .collection .collection-item.avatar>.date-post { #제일하단 latest post
+.last-post .collection .collection-item.avatar>.date-post { /* 제일하단 latest post */
     position: absolute;
     width: 54px;
     height: 54px;
